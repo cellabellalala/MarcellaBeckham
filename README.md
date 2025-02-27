@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarcellaBeckham
+- 👋 Hi, I’m @Marcella
 - 👀 I’m interested in learning just about anything aroung programming / hacking
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on -- may need to hold off for a bit, as I'm just getting back into programming.. 
